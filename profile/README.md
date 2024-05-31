@@ -1,6 +1,10 @@
-# [Lita Foundation](https://www.lita.foundation/)
+# [Lita](https://www.lita.foundation/)
 
-[Lita Foundation](https://www.lita.foundation/) brings speed, scalability, and privacy to your decentralized worlds. Lita powers the next era of blockchain infrastructure, DeFi, on-chain gaming and social.
+Lita is a cutting-edge zk-VM stack for succinct and zero-knowledge proving, leading in speed, efficiency, developer productivity, and modularity.
+
+With speeds surpassing existing systems, in some cases by 100-1000x, Lita accelerates zero-knowledge proving to unprecedented levels. Supporting high-level languages like C, and with plans for C++ and Rust integration, developers can leverage familiar tools for trustless applications.
+
+Designed to be modular and customizable, Lita offers flexibility to tailor the VM to specific needs. Join us at the forefront of cryptographic innovation with Lita, shaping the future of proving technology.
 
 <!--
 
